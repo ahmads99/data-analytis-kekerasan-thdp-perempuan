@@ -11,15 +11,7 @@ Dataset yang digunakan dalam proyek ini mencakup beberapa kolom penting, antara 
 - **bulan**: Bulan data diambil.
 - **jenis_pelayanan**: Jenis pelayanan yang diberikan kepada korban kekerasan.
 - **jumlah_yang_dilayani**: Jumlah korban yang menerima layanan komprehensif.
-
-## Fitur Analisis
-
-Dashboard ini memiliki beberapa fitur utama:
-1. **Analisis Harian**: Visualisasi jumlah order harian dan total pendapatan yang dihasilkan.
-2. **Performa Produk**: Analisis produk dengan performa terbaik dan terburuk.
-3. **Demografi Pelanggan**: Visualisasi jumlah pelanggan berdasarkan gender, usia, dan lokasi.
-4. **Analisis RFM (Recency, Frequency, Monetary)**: Menampilkan pelanggan terbaik berdasarkan parameter RFM.
-
+- 
 ## Cara Menjalankan Proyek
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal Anda:
