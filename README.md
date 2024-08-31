@@ -44,7 +44,4 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 4. **Akses Dashboard**:
     Buka browser dan kunjungi [http://localhost:8501](http://localhost:8501) untuk melihat dashboard.
 
-## Struktur Direktori
-
-Proyek ini memiliki struktur direktori sebagai berikut:
 
