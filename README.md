@@ -11,7 +11,7 @@ Dataset yang digunakan dalam proyek ini mencakup beberapa kolom penting, antara 
 - **bulan**: Bulan data diambil.
 - **jenis_pelayanan**: Jenis pelayanan yang diberikan kepada korban kekerasan.
 - **jumlah_yang_dilayani**: Jumlah korban yang menerima layanan komprehensif.
-- 
+
 ## Cara Menjalankan Proyek
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal Anda:
